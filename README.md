@@ -1,14 +1,12 @@
 ![](/headerimage.png)
 
-要做出一个好的应用，需要经过良好的设计。而设计需要的资源对于设计师特别是程序员在没有设计师的配合帮助下进行产品设计至关重要，毕竟程序员往往欠缺设计方面的能力。下面是一份由一位美国程序员[Brad Traversy](https://github.com/bradtraversy)发起并经过社区成员精心挑选的**可免费商用**的UI设计资源列表，我翻译了一份中文（翻译还在进行中...），[原项目点这里](https://github.com/bradtraversy/design-resources-for-developers)，在有需要的时候看看这些站点，或许会有帮助。
+这是一份翻译自[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)包含丰富的照片素材库、web模板、CSS框架、UI组件库、工具以及更多资源的精心挑选的列表，所有资源均**可免费商用**（部分站点也包含付费版本），目前还在翻译中...，如果您觉得这个列表对您有帮助，还请给个Star，谢谢:heartpulse::heartpulse::heartpulse:
 
-::: warning 警告
-这里列出的资源大多为英文站点，部分资源需要科学上网
-:::
+> 由于这里列出的资源大多为英文站点，部分资源需要科学上网
 
 ## 列表目录
 
-[[toc]]
+
 
 ## UI图片模板
 
