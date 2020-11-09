@@ -1,4 +1,4 @@
-![](E:\workdir\design-resources-for-developers-cn\headerimage.png)
+![](./headerimage.png)
 
 这是一份翻译自[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)包含丰富的照片素材库、web模板、CSS框架、UI组件库、工具以及更多资源的精心挑选的列表，所有资源均**可免费商用**（部分站点也包含付费版本），目前还在翻译中...，如果您觉得这个列表对您有帮助，还请给个Star，谢谢:heartpulse::heartpulse::heartpulse:
 
